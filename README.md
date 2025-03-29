@@ -2,6 +2,8 @@
 
 # Overview
 
+**This repo features WNBA only and is the public sample of the full private funaki system, which includes NBA/NCAAMB/NCAAWB/WNBA/NBL/Euroleague/Eurocup**
+
 Funaki is a basketball methodology based on analysis of play by play data to create Bayesian player offensive/defensive ratings and team pace tendencies based on analysis of shot clock usage.  
 
 The player ratings consider every posession a player was on the court, as well as the offensive ratings of their 4 teammates and the defensive ratings of their 5 opponents, and the outcome of the possession.  These ratings are updated through a Kalman filtering approach, built with tensorflow probability, to keep player ratings up to date while still robust to swings due to short term noise.  
