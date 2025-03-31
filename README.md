@@ -10,7 +10,7 @@ The player ratings consider every posession a player was on the court, as well a
 
 The use of shot clock to determine pace tendencies allows to specifically measure team behavior without skewing the signal with opposing team pace, as is the case with most traditional pace metrics.  Using these shot clock pace metrics as well as team efficiency predictions aggregated from each team's player's individual offensive/defensive skill ratings, with projected play-time considerations, yields effective prediction models for spread, moneyline, and totals markets.  
 
-Funaki is built with the first prinicples of basketball gameplay in mind, and thus is generalizable to any basketball league where play by play and court tracking information is available.  
+Funaki is built with the first principles of basketball gameplay in mind, and thus is generalizable to any basketball league where play by play and court tracking information is available.  
 
 ## Current Player Ratings
 
